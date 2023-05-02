@@ -4,10 +4,20 @@
 	</section>
 	<section name="SmartImportWizard">
 		<item key="SmartImportRootWizardPage.STORE_HIDE_ALREADY_OPEN" value="false"/>
-		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="false"/>
+		<item key="SmartImportRootWizardPage.STORE_CLOSE_IMPORTED" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\user\gumi\0502 ex03(unit04)~ex04(unit03), java eclips 3, diary logo\eclipse-sec02-7(ForfloatCounterExample)~sec04-1\chap0211\src\sec04_exam01"/>
+			<item value="C:\Users\user\gumi\0502 ex03(unit04)~ex04(unit03), java eclips 3, diary logo\eclipse-sec02-7(ForfloatCounterExample)~sec04-1\chap0211\src\sec03_exam07"/>
+			<item value="C:\Users\user\gumi\0502 ex03(unit04)~ex04(unit03), java eclips 3, diary logo\eclipse-sec02-7(ForfloatCounterExample)~sec04-1\chap0211\src\sec03_exam06"/>
+			<item value="C:\Users\user\gumi\0502 ex03(unit04)~ex04(unit03), java eclips 3, diary logo\eclipse-sec02-7(ForfloatCounterExample)~sec04-1\chap0211\src\sec03_exam05"/>
+			<item value="C:\Users\user\gumi\0502 ex03(unit04)~ex04(unit03), java eclips 3, diary logo\eclipse-sec02-7(ForfloatCounterExample)~sec04-1\chap0211\src\sec02_exam05"/>
+			<item value="C:\Users\user\gumi\0502 ex03(unit04)~ex04(unit03), java eclips 3, diary logo\eclipse-sec02-7(ForfloatCounterExample)~sec04-1\chap0211\src\sec03_exam04"/>
+			<item value="F:\1. 자바코틀린 본수업 0421~1024\0502 ex03(unit04)~ex04(unit03), java eclips 3, diary logo\eclipse-sec02-7(ForfloatCounterExample)~sec04-1\chap02\src\sec03_exam03"/>
+			<item value="F:\1. 자바코틀린 본수업 0421~1024\0502 ex03(unit04)~ex04(unit03), java eclips 3, diary logo\eclipse-sec02-7(ForfloatCounterExample)~sec04-1\chap02\src\sec03_exam02"/>
+			<item value="C:\Users\user\gumi\0502 ex03(unit04)~ex04(unit03), java eclips 3, diary logo\eclipse-sec02-7(ForfloatCounterExample)~sec04-1\chap0211\src\sec02_exam08"/>
+			<item value="C:\Users\user\gumi\0502 ex03(unit04)~ex04(unit03), java eclips 3, diary logo\eclipse-sec02-7(ForfloatCounterExample)~sec04-1\chap0211"/>
 			<item value="F:\1. 자바코틀린 본수업 0421~1024\0501 ex02(unit04~05)~ex03(unit01~03), java eclips 2, github\eclipse-sec02"/>
 		</list>
 	</section>
