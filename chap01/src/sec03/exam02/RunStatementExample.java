@@ -11,3 +11,5 @@ public class RunStatementExample {
 	}
 
 }
+
+//맨앞에 대문자X, 띄어쓰기X ,특수문자X ( _ 랑 $만 가능),숫자X,변수이름X(헷갈리니까 되도록 안쓰게),변수이름 글자 수 제한없음

@@ -9,3 +9,6 @@ public class Variable {
 	}
 
 }
+
+
+// 변수형(자료형) byte < short < char < int < long
