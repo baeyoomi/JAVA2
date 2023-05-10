@@ -3,7 +3,7 @@ package sec04.exam05;
 import java.util.Scanner;
 
 public class ScannerExample {
-
+	//키보드 입력 데이터를 변수에 저장
 	public static void main(String[] args) {
 		// ctrl + shift + o = 클래스 인식 안되서 에러로 인식되면 import로 파일 찾아줌(매우 간편~)
 		@SuppressWarnings("resource")
