@@ -1,5 +1,7 @@
 package sec03.exam02;
 
+import java.util.Calendar;
+
 public class EnumWeekExample {
 	//index개념에 java 실행클래스 (Example = 메인함수) 패키지별로 메인함수는 한개만 등록할수 있다 
 	public static void main(String[] args) {
